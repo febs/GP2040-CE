@@ -8,7 +8,7 @@
 
 #include "enums.pb.h"
 #include "class/hid/hid.h"
-#define BOARD_CONFIG_LABEL "FightingBox Mini"
+#define BOARD_CONFIG_LABEL "Fightingbox-mini"
 
 // Main pin mapping Configuration
 //                                                  // GP2040 | Xinput | Switch  | PS3/4/5  | Dinput | Arcade |
